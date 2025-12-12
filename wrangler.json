@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "leads-collector",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "ad7595d0-df80-4a11-a94f-a66a39b56fe8",
+			"database_name": "forms_db"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
